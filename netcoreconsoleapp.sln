@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netcoreconsoleapp", "netcoreconsoleapp\netcoreconsoleapp.csproj", "{86F834C8-C6E0-42F9-9577-C5C6AEB638B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F834C8-C6E0-42F9-9577-C5C6AEB638B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F834C8-C6E0-42F9-9577-C5C6AEB638B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F834C8-C6E0-42F9-9577-C5C6AEB638B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F834C8-C6E0-42F9-9577-C5C6AEB638B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C681019D-E094-4BFD-985D-7299E375AEA5}
+	EndGlobalSection
+EndGlobal
